@@ -515,6 +515,7 @@ containing a value of this type.
         /**  Long form sign-in button text [CHAR LIMIT=30] 
          */
         public static final int common_signin_button_text_long=0x7f050018;
+        public static final int geo_get_failure=0x7f05001c;
         public static final int hello_world=0x7f05001b;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 

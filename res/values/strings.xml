@@ -3,5 +3,7 @@
 
     <string name="app_name">MapsSample</string>
     <string name="hello_world">Hello world!</string>
+    
+    <string name="geo_get_failure">GPSの取得に失敗しました．</string>
 
 </resources>
